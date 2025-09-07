@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on college project...
 - 🌱 I’m currently learning Python, Data Analytics..
 - 🔭 Working on improving Problem-solving ...
-- \u{1F4C8} Turning data into actionable insights to support business decisions \u{1F4A1} and growth \u{1F4C8}.
+- 📊 Turning data into actionable insights to support business decisions💡 and growth📈.
 
 
 
